@@ -29,7 +29,7 @@ module.exports = {
         background_color: "#ffffff",
         theme_color: "#16191a",
         display: "standalone",
-        // icon: "src/img/favicon/mondello-favicon-white.svg",
+        icon: "src/img/favicon/mondello-favicon.svg",
       },
     },
     `gatsby-plugin-offline`,
