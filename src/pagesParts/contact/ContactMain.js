@@ -122,7 +122,7 @@ export default function ContactMain() {
           <StyledImgDiv>
             <Img
               fluid={data.image.childImageSharp.fluid}
-              alt="Italian restaurant outside - Palermo"
+              alt="Open View restaurant outside - Malindi"
             />
           </StyledImgDiv>
           <StyledInfoDiv>

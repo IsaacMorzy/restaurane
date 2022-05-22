@@ -21,7 +21,7 @@ export default function Email() {
     <div>
       <StyledLink href="mailto:info@mondello.it.com">
         <StyledIcon icon={faEnvelope} />
-        info@mondello.it.com
+        info@openviewclub.com
       </StyledLink>
     </div>
   )

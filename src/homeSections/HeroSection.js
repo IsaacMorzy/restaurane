@@ -117,9 +117,9 @@ export default function HeroSection() {
     <StyledSection Tag="section" fluid={imageData} backgroundColor={`#16191a`}>
       <Container>
         <StyledHeaderWrapper ref={headerRef}>
-          <StyledHeading ref={headingRef}>Mondello</StyledHeading>
+          <StyledHeading ref={headingRef}>Open View Club  </StyledHeading>
           <StyledSubheading ref={subheadingRef}>
-            Explore the real taste of Italy!
+            Explore the real taste of C!
           </StyledSubheading>
         </StyledHeaderWrapper>
       </Container>

@@ -17,12 +17,12 @@ export default function HistoryPage() {
     <Layout>
       <SEO
         title="Our History"
-        description="Since 1975, we build the brand of our restaurant around the idea of authentic traditional Italian food."
+        description="Since 1975, we build the brand of our restaurant around the idea of authentic traditional African food."
       />
       <StyledMainWrapper>
         <PageHeader
           heading="Our History"
-          subheading="Since 1975, we build the brand of our restaurant around the idea of authentic traditional Italian food."
+          subheading="Since 1975, we build the brand of our restaurant around the idea of authentic traditional African food."
         />
         <TopPart />
         <MidPart />

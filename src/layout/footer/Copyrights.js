@@ -21,7 +21,7 @@ export default function Copyrights() {
         © {currentYear} {copyrightsOwner} -{" "}
         {language === "eng"
           ? "All rights reserved."
-          : "Wszystkie prawa zastrzeżone."}
+          : "Zack"}
       </p>
     </StyledWrapper>
   )

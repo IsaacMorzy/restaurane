@@ -109,7 +109,7 @@ export default function ReservationSection() {
               <MainParagraph>
                 You can also call to make a reservation.
               </MainParagraph>
-              <StyledPhone href="tel:7376787164">+1 737 6787 164</StyledPhone>
+              <StyledPhone href="tel:7376787164">+254 790959302</StyledPhone>
             </StyledMoreWrapper>
           </StyledGrid>
         </StyledGridWrapper>

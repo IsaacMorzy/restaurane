@@ -27,12 +27,12 @@ export default function Branding() {
       {path === "/" ? (
         <StyledLogo
           src={logoImage}
-          alt="Mondello Restaurant logo"
+          alt="OpenViewClub logo"
           onClick={() => scroll.scrollTo(0)}
         ></StyledLogo>
       ) : (
         <AniLink to="/" cover direction="right" duration={1} bg="#968b63">
-          <img src={logoImage} alt="Mondello Restaurant logo"></img>
+          <img src={logoImage} alt="OpenView Restaurant logo"></img>
         </AniLink>
       )}
     </StyledLogoWrapper>

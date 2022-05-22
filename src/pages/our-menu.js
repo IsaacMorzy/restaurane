@@ -14,7 +14,7 @@ export default function OurMenuPage() {
     <Layout>
       <SEO
         title="Our Menu"
-        description="The kitchen offers delicious specialties of the Sicilian tradition. Check menu in Mondello restaurant."
+        description="The kitchen offers delicious specialties of the Sicilian tradition. Check menu in Open View restaurant."
       />
       <StyledMainWrapper>
         <PageHeader

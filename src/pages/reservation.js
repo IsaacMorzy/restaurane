@@ -23,7 +23,7 @@ export default function OurMenuPage() {
         <PageHeader
           heading="Reservation"
           subheading="There are always new and exciting food adventures waiting for You.
-          Book your favourite table in Mondello."
+          Book your favourite table in OpenView Club."
         />
         <ReservationMid />
         <ReservationBottom />

@@ -7,8 +7,8 @@ const path = require(`path`)
 
 module.exports = {
   siteMetadata: {
-    title: `Mondello Restaurant`,
-    description: `Website of a traditional Italian restaurant. `,
+    title: `Open View Club Restaurant`,
+    description: `Website of a traditional Kenyan restaurant. `,
     author: `Marcin Cirocki`,
   },
   plugins: [
@@ -23,7 +23,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: "Mondello Italian Restaurant",
+        name: "Open View Club Restaurant",
         short_name: "Mondello",
         start_url: "/",
         background_color: "#ffffff",

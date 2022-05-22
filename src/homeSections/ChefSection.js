@@ -156,7 +156,7 @@ export default function ChefSection() {
               </OldSchoolHeading>
               <StyledTextDiv>
                 <MainParagraph>
-                  Gennaro - chef of our restaurant, loves pizza and spaghetti,
+                  Gregory - chef of our restaurant, loves pizza and spaghetti,
                   but he can also prepare many more exquisite dishes like his
                   specialty - bloody steaks. He can create a masterpiece from a
                   simple products, that will delight even the most demanding

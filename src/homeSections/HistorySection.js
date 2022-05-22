@@ -138,7 +138,7 @@ export default function HistorySection() {
             <StyledContent ref={contentRef}>
               <MainParagraph>
                 Our restaurant was established in 1975. Its founder and first
-                chef was Pietro Savastano. Eccentric men with passion for the
+                chef was Zachari. Eccentric men with passion for the
                 italian food and italian way of life. His goal was to create a
                 family place with original, traditional food and an informal
                 atmosphere. Years have passed, but we still value the same
@@ -150,7 +150,7 @@ export default function HistorySection() {
           <StyledImageWrapper>
             <Img
               fluid={data.file.childImageSharp.fluid}
-              alt="Mondello restaurant outside - Via delle Viole"
+              alt="OpenView Outside"
             />
           </StyledImageWrapper>
         </StyledGrid>

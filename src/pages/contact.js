@@ -14,14 +14,13 @@ export default function ContactPage() {
     <Layout>
       <SEO
         title="Contact"
-        description="There are many great restaurants in Palermo, 
-        but only one is famous in the entire Apennine peninsula."
-      />
+        description="There are many great restaurants in Malindi  but the best is Open View Bar & Restaurant. We specialize in homemade classic Italian pizza, pasta, salads, soups and much more
+        but only one is famous in the entire Apennine peninsula "/>
       <StyledMainWrapper>
         <PageHeader
           heading="Contact"
-          subheading="There are many great restaurants in Palermo, 
-          but only one is famous in the entire Apennine peninsula."
+          subheading="There are many great restaurants in Malindi, 
+          but only one is famous in the entire coastline"
         />
         <ContactMain />
       </StyledMainWrapper>

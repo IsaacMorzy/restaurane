@@ -1,7 +1,7 @@
 export const mainData = {
-  websiteTitle: "Mondello",
-  address: "Via delle Viole 186, 90149 Palermo",
+  websiteTitle: "Open View Club",
+  address: "Q4J9+22W, Next To Total Petrol Station, Casuarina Rd, Malindi",
   lang: "eng",
-  author: "CIROCKI.PL",
-  authorURL: "https://cirocki.pl/",
+  author: "Zackzy",
+  authorURL: "https://cir/",
 }
