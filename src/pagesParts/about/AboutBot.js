@@ -117,7 +117,7 @@ export default function AboutBot() {
           <StyledBrandingDiv>
             <StyledLogo
               src={logoImage}
-              alt="Mondello Restaurant logo"
+              alt="Open View Restaurant logo"
             ></StyledLogo>
           </StyledBrandingDiv>
           <StyledContentDiv>
