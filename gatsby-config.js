@@ -9,7 +9,7 @@ module.exports = {
   siteMetadata: {
     title: `Open View Club Restaurant`,
     description: `Website of a traditional Kenyan restaurant. `,
-    author: `Marcin Cirocki`,
+    author: `ZacKMorx`,
   },
   plugins: [
     {
@@ -17,8 +17,11 @@ module.exports = {
       options: {
         name: `images`,
         path: `${__dirname}/src/img`,
+
+        
       },
     },
+  
 
     {
       resolve: `gatsby-plugin-manifest`,
@@ -32,6 +35,20 @@ module.exports = {
         icon: "src/img/favicon/mondello-favicon.svg",
       },
     },
+
+    module.exports = {
+      plugins: [
+        {
+          resolve: `gatsby-plugin-tawk.to`,
+          options: {
+            tawkId: "1g3s2tl5f",
+            tawkKey: "f550e240b0c28fa3a48e4e1423357e55f210074f",
+            // get this from the tawk script widget
+          },
+        },
+      ],
+    }
+    
     `gatsby-plugin-offline`,
     `gatsby-plugin-transition-link`,
     `gatsby-plugin-styled-components`,
