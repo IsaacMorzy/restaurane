@@ -36,18 +36,8 @@ module.exports = {
       },
     },
 
-    module.exports = {
-      plugins: [
-        {
-          resolve: `gatsby-plugin-tawk.to`,
-          options: {
-            tawkId: "1g3s2tl5f",
-            tawkKey: "f550e240b0c28fa3a48e4e1423357e55f210074f",
-            // get this from the tawk script widget
-          },
-        },
-      ],
-    }
+    
+    
     
     `gatsby-plugin-offline`,
     `gatsby-plugin-transition-link`,
